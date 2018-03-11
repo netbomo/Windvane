@@ -142,7 +142,7 @@ private:
 
 	double m_data[measure_max]={0.0};			/**< this is the data array where witch data are put and from where the average is done. */
 
-	double m_average;						/**< there is the result from the m_data average */
+	double m_average;							/**< there is the result from the m_data average */
 
 	double m_factor;							/** this is the sensor's factor. it initial value is 1, but if the sensor data need to be multiply, change the factor value. */
 
