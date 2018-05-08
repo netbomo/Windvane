@@ -1,0 +1,16 @@
+{
+  "name": "Windvane",
+  "keywords": "Windvane, Windlogger",
+  "description": "This library create a windvane object, as a sensor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/netbomo/Windvane.git"
+  },
+  "authors": {
+    "name": "gilou",
+    "url": "https://github.com/netbomo/Windvane.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
